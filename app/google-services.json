@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1077062985303",
+    "firebase_url": "https://drsoftware-ae3b0.firebaseio.com",
+    "project_id": "drsoftware-ae3b0",
+    "storage_bucket": "drsoftware-ae3b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077062985303:android:4261d45f6bddd830",
+        "android_client_info": {
+          "package_name": "com.example.android.desantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077062985303-dfq5g6frva0g7hedof6p4p2prmn827t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQlrmzKQCKN3pbUbopt0ahGC_ZJAXdZ5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
